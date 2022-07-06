@@ -1,0 +1,13 @@
+body{background-color: black;}
+h1{color: rgb(250, 210, 6);}
+
+
+
+
+.container{position: relative;
+text-align: center;
+color: azure}
+.centered{position: absolute;
+top: 35%;
+left: 45%;
+text-shadow: violet;}
