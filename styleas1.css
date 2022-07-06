@@ -19,8 +19,8 @@ font-size: large;font-weight: bolder;font-family: 'Times New Roman', Times, seri
     right: 250px;
 }
 .link-button{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-color: rgb(142, 45, 232); background-color: rgb(255, 174, 237); padding: 10px 30px; text-decoration: none; background-image: linear-gradient(violet pink); font-weight: 700;
-border-radius: 100%;}
+color: rgb(240, 240, 49); background-color: rgb(46, 209, 214); padding: 10px 10px; text-decoration: none; background-image: linear-gradient(rgb(130, 238, 236) rgb(205, 233, 240)); font-weight: 900;
+border-radius: 0%;}
 
 .centered1{text-align: center;}
 .container2{text-align: center; font-weight: 900;}
@@ -42,3 +42,4 @@ border-radius: 100%;}
 .half-width2 img{width: 90%;padding-right: 10%;padding-top: 20%;}
 .flexible-container2{display: flex; margin-left:480px ;}
 #flexible-container2{display: flex; margin-left: 45%;}
+.box{font-family: Verdana, Geneva, Tahoma, sans-serif;background-image:linear-gradient(rgb(241, 163, 16),rgb(232, 187, 128)); color: rgb(31, 230, 213);padding-left: 11%; padding-top: 3%; padding-bottom: 3%; }
